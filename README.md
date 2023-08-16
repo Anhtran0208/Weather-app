@@ -1,4 +1,4 @@
-# Weather Forecast 
+# Weather Forecast
 Weather Forecast is a mobile app that provides information about real-time and upcoming weather as well as population, sunrise, and sunset time based on users'location 
 
 ## Overview
